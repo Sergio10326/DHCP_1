@@ -57,3 +57,5 @@ group {
 ```
 
 ![Imagen configuración DHCP hecha correctamente](jaja.png)
+
+(Imagen de confirmación de que funciona correctamente)
