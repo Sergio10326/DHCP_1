@@ -3,6 +3,8 @@ services:
   asir_isc:
     container_name: asir_isc
     image: networkboot/dhcpd
-    network_mode: host
+    network_mode: "host"
     volumes:
       - ./data:/data
+
+      
